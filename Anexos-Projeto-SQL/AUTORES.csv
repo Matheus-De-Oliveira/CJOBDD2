@@ -1,0 +1,11 @@
+CPF,NOME,ENDERECO,TELEFONE,EMAIL,DATA_CADASTRO
+00122334455,Machado de Assis,Rua do Cosme Velho RJ,(21) 9000-0001,machado@academia.org.br,2020-01-01
+11223344556,George Orwell,London Street 10 UK,(00) 0000-0000,george@orwell.com,2020-01-01
+22334455667,Stephen King,Maine Street 13 USA,(00) 0000-0000,king@horror.com,2021-05-10
+33445566778,Clarice Lispector,Recife PE,(81) 9888-7777,clarice@literatura.com,2020-01-01
+44556677889,Paulo Coelho,Rua das Letras 10 SP,(11) 9888-1111,paulo.coelho@email.com,2019-11-11
+55667788990,Jane Austen,Steventon Hampshire UK,(00) 0000-0000,jane.austen@email.com,2018-08-08
+66778899001,Neil Gaiman,Portland OR USA,(00) 0000-0000,neil.gaiman@email.com,2017-07-07
+77889900112,Isabel Allende,Santiago Chile,(00) 0000-0000,isabel.allende@email.com,2016-06-06
+88990011223,Agatha Christie,Devon UK,(00) 0000-0000,agatha.christie@email.com,2015-05-05
+99001122334,J.K. Rowling,Edinburgh UK,(00) 0000-0000,jk.rowling@email.com,2014-04-04
